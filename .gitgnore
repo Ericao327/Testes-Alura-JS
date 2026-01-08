@@ -1,0 +1,68 @@
+# Node
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# Build / output
+dist/
+build/
+out/
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Environment variables
+.env
+.env.*.local
+.env.local
+
+# Editor directories and OS files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.DS_Store
+Thumbs.db
+
+# Caches
+.cache/
+.sass-cache/
+.cache-loader/
+.parcel-cache/
+.vite/
+.tmp/
+
+# Test output
+jest-test-results.json
+coverage/
+
+# Static site / frameworks
+.next/
+public/
+
+# Package artifacts
+*.tgz
+
+# Misc
+bower_components/
+*.sqlite
+*.sqlite3
+*.db
