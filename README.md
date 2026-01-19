@@ -116,15 +116,3 @@ test('obtém usuário assíncrono', async () => {
 3. Faça commits claros e atômicos
 4. Abra um pull request com descrição do que foi alterado
 
-## Licença
-
-Este projeto está sob a licença MIT - consulte o arquivo LICENSE para mais detalhes (ou altere conforme sua preferência).
-
----
-
-Se quiser, eu posso:
-- adaptar o README ao conteúdo real do repositório (posso verificar os arquivos se você autorizar),
-- adicionar instruções específicas para frameworks/linters usados,
-- traduzir para inglês.
-
-Diga como prefere que eu prossiga.
