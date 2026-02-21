@@ -11,7 +11,7 @@ function avaliarDesempenho(pontuacao, callback) {
  
     callback(pontuacao, status);
 }
- 
+ c
 function gerarMensagem(pontuacao, status) {
     console.log(`Pontuação: ${pontuacao}`);
  
